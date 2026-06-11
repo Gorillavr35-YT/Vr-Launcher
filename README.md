@@ -5,7 +5,9 @@ Core-Features
 - Made With Visual Studio 2026
 - Less Ram Usage (At least 40 mb)
 - And Discord Rich Presence (See what your playing aka "Vr Launcher")
-- A Automatic Log Cleaner to Save Space 
+- A Automatic Log Cleaner to Save Space
+- Auto Killer On Crash
+- Good Performance!
 
   - Info -
   - We will take feedback and try to fix issues (im a solo person lol)
