@@ -1,30 +1,40 @@
-# Vr-Launcher-
-Have You Want Less Usage When Playing Vr And A Little More Debugging? Well you came to the best place! Welcome to Vr Launcher! 
+# Vr-Launcher- 🚀
 
-Core-Features
-- Made With Visual Studio 2026
-- Less Ram Usage (At least 40 mb)
-- And Discord Rich Presence (See what your playing aka "Vr Launcher")
-- A Automatic Log Cleaner to Save Space
-- Auto Killer On Crash
-- Good Performance!
+Have you ever wanted less resource usage when playing VR alongside some helpful debugging tools? Well, you came to the right place! Welcome to **Vr Launcher**.
 
-  - Info -
-  - We will take feedback and try to fix issues (im a solo person lol)
- 
-    Hope You Enjoy And Have A Wonderful Day Vr Players!
+---
 
-    Install Guide:
-     Install The Zip
-     Extract That Zip File
-        Open The Vr Launcher exe (ONLY)
-        Your Done Have Fun!
-          Troubleshooting:
-          Windows Says its a virus: it's Not a virus it might be due to the dll files in the folder that are needed to run the app.
-          Admin Needed: i dont know but you might as well because it deletes Log files to save storage and it needs admin prob.
-NOTCE
-i would read the read.me and The COPYRIGHT NOTICE to see if you have permission to publish videos
-and just dont touch ANY FILES
+## 🛠️ Core Features
 
-Also Make Sure You Have The Net 10 Installed.
-https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-10.0.9-windows-x64-installer
+* **Built with Visual Studio 2026** – Modern and optimized.
+* **Low RAM Footprint** – Keeps usage minimal (at least 40 MB saved!) so your PC can focus on the VR game.
+* **Discord Rich Presence** – Let your friends see what you are up to (Displays: *Playing: Vr Launcher*).
+* **Automatic Log Cleaner** – Automatically wipes unnecessary logs to reclaim your disk space.
+* **Auto-Killer on Crash** – Cleanly shuts down if an unexpected error occurs so it doesn't hang in the background.
+* **Optimized Performance** – Lightweight and snappy.
+
+---
+
+## ℹ️ Important Info
+I am a solo developer working on this project! I will actively take feedback and do my absolute best to fix issues as they pop up. Hope you enjoy the app and have a wonderful day, VR players! 👋
+
+---
+
+## 📦 Install Guide
+
+1. Download the release `.zip` file.
+2. Extract the ZIP file completely into its own folder.
+3. Open `Vr Launcher.exe` (Run this file **only**).
+4. You're all set. Have fun!
+
+### 🔍 Troubleshooting & Notices
+
+* **Windows Says It's a Virus:** It is completely safe! Because this is an unsigned indie utility, Windows Defender might flag a false positive. This is usually triggered by the essential `.dll` files in the folder or the administrative checks. 
+* **Admin Privileges:** The app requests Administrator permissions because it runs system diagnostics (like checking your C: drive space) and clears out junk log files to save you storage.
+* **⚠️ Strict Notice:** Please read the included `README` and `COPYRIGHT NOTICE` files before publishing any videos or media showcasing the app. **Do not modify or delete any files inside the folder.**
+
+---
+
+## 🔴 Prerequisites
+Make sure you have the **.NET 10 Desktop Runtime** installed on your PC before launching the app:
+👉 [Download .NET 10 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-10.0.9-windows-x64-installer)
